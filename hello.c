@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void microkernel_sendmsg(char *);
-//I loved to make this change #stage_30
+
 void main(){
 	printf("Helloworld!\n");
 	printf("This must be a monolithic design\n");
